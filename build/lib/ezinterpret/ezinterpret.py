@@ -1,9 +1,4 @@
 """Main module."""
-
-import pandas as pd
-import numpy as np
-import matplot.pyplot as plt
-
 class ez_linear():
     
     def __init__(self, fitted_model):

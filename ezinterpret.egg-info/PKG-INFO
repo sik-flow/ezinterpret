@@ -1,0 +1,68 @@
+Metadata-Version: 1.2
+Name: ezinterpret
+Version: 0.1.0
+Summary: Python library to make interpretting machine learning models easier :) 
+Home-page: https://github.com/sik-flow/ezinterpret
+Author: Jeff Herman
+Author-email: jherman1199@gmail.com
+License: GNU General Public License v3
+Description: ===========
+        ezinterpret
+        ===========
+        
+        
+        .. image:: https://img.shields.io/pypi/v/ezinterpret.svg
+                :target: https://pypi.python.org/pypi/ezinterpret
+        
+        .. image:: https://img.shields.io/travis/sik-flow/ezinterpret.svg
+                :target: https://travis-ci.com/sik-flow/ezinterpret
+        
+        .. image:: https://readthedocs.org/projects/ezinterpret/badge/?version=latest
+                :target: https://ezinterpret.readthedocs.io/en/latest/?badge=latest
+                :alt: Documentation Status
+        
+        
+        
+        
+        Python library to make interpretting machine learning models easier :) 
+        
+        
+        * Free software: GNU General Public License v3
+        * Documentation: https://ezinterpret.readthedocs.io.
+        
+        
+        Features
+        --------
+        
+        * TODO
+        
+        Credits
+        -------
+        
+        This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+        
+        .. _Cookiecutter: https://github.com/audreyr/cookiecutter
+        .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+        
+        
+        =======
+        History
+        =======
+        
+        0.1.0 (2020-05-25)
+        ------------------
+        
+        * First release on PyPI.
+        
+Keywords: ezinterpret
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5
