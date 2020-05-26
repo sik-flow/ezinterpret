@@ -89,7 +89,7 @@ class ez_linear():
         return fig
     
     def effect_plot_with_local_pred(self, raw_data, categorical_dictionary, local_pred, target_variable):
-        my_df = self.effect_dataframe(df, categorical_dictionary)
+        my_df = self.effect_dataframe(raw_data, categorical_dictionary)
         df1 = pd.DataFrame(self.model.params, columns=['coef'])
         df1['indv_resp'] = pd.DataFrame(local_pred, index = [0]).T
         df1['indv_res'] = df1['coef'] * df1['indv_resp']
