@@ -10,11 +10,11 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['pandas', 'matplotlib', 'numpy'. 'seaborn']
+requirements = ['pandas', 'matplotlib', 'numpy', 'seaborn']
 
-setup_requirements = ['pandas', 'matplotlib', 'numpy'. 'seaborn']
+setup_requirements = ['pandas', 'matplotlib', 'numpy', 'seaborn']
 
-test_requirements = ['pandas', 'matplotlib', 'numpy'. 'seaborn']
+test_requirements = ['pandas', 'matplotlib', 'numpy', 'seaborn']
 
 setup(
     author="Jeff Herman",
